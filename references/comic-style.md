@@ -20,6 +20,13 @@
 - `finance-comic-technical-prop-sheet.png`：技术分析、量化、组合、风险、财报、估值、衍生品和金融 NLP 的专业道具；默认以透明背景叠加到漫画场景中。
 - `finance-comic-supporting-characters.png`：小播、安安、林析、老程、冲冲五位功能型配角。
 - `finance-comic-supporting-expression-action-prop-sheet.png`：五位配角各自对应的表情、动作和金融道具。
+- `finance-comic-layout-template-sheet.png`：单格重点、左右对话、上下对比、三格连续动作、无人物数据特写和总结背板。
+- `finance-comic-pose-view-sheet.png`：正面、侧面、背面、坐姿、走入、指向、递接道具、讨论、看板、提问、叫停和庆祝成交等常用姿势与视角。
+- `finance-comic-cover-title-sheet.png`：课程封面、等级标题牌、知识点标题卡、章节开场横幅、章节完成页和一分钟自测标题条。
+- `finance-comic-summary-ending-sheet.png`：一句话记忆、三步流程、四道门检查、易错点、自测完成和复习收束模板。
+- `finance-comic-typography-sheet.png`：课程、章节、知识点、对白、旁白、公式数字、风险提示和正确/错误对照的统一文字排版。
+- `finance-comic-knowledge-template-map.png`：规则、计算、对比、风险、长期投资和行为偏差六类知识与画面模板、场景、角色、道具的对应关系。
+- `finance-comic-background-empty-scenes.png`：交易大厅、证券街、新闻广场、风险路口、长期投资公园、市场波动海边、财报咖啡馆和复习教室的空镜环境组件。
 
 使用这些资产时，保持人物的脸型、发型、线稿粗细和主色连续。配角只在其行为能解释知识时出现；不要为了画面热闹让所有角色同框。服装和道具可以随场景变化，但必须服务于学习目标。
 
